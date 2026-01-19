@@ -1,12 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
-# ここにゲームのタイトルを記述する
+<img width="442" height="108" alt="image" src="https://github.com/user-attachments/assets/120d6fd1-0e9a-4cbc-88bb-6846fa5fe1af" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
+# 折れ杖の塔（Battle for the Fractured Scepter）
 
 ## ゲームの内容
-ここにゲームの内容説明を記述する
+ファンタジー異世界 「インタラクション」 の中心には、
+天を突く巨塔 「タワー」 がそびえ立っている。
+塔の最上部には、伝説の禁忌アイテム 「折れ杖」 が眠ると言われる。
+「折れ杖」を手にした者は、世界の“ルール”――
+力関係、因果、勝敗、正義、不利有利――を反転させ、
+どんな状況でも逆転できると伝承されている。
+この伝説に目をつけたのが、互いに敵視する二つの陣営。
+	• 「ワナビー」：偉大なる者を支え、秩序を積み上げれば自分も強くなれると信じる集団
+	• 「オレだー」：自分こそが強者であるべきと信じ、破壊と速度で上へ登る集団
+先知 「スラカー」 は、「折れ杖が再び現れる」と預言した。
+両陣営は預言の真偽を確かめ、そして何より“先に奪う”ため、先遣隊をタワーへ派遣する。
+あなたは先遣隊の一員。タワー周辺に到達した瞬間、敵陣営の先遣隊も現れる。
+一瞬の遅れが、世界のルールそのものを敵に渡すことになる。
+こうして「折れ杖」を巡る争奪戦が始まる。
 
 ![画面イメージ](docs/images/game_image01.png)
+<img width="961" height="535" alt="Screenshot 2026-01-13 at 12 15 10" src="https://github.com/user-attachments/assets/af9f766f-0665-4b8e-ab4b-287b88c83102" />
 
 ## 操作説明
-例
-- 矢印キー、若しくはAとDキーで左右に砲台を移動する
-- スペースキーを押すとビームを敵に向けて発射する
+移動　WASDキー
+カメラコントロール　マウス回転
+ジャンプ　Spaceキー
+アクション　左クリック
