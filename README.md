@@ -1,4 +1,4 @@
-<img width="442" height="108" alt="image" src="https://github.com/user-attachments/assets/120d6fd1-0e9a-4cbc-88bb-6846fa5fe1af" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
+
 # 折れ杖の塔（Battle for the Fractured Scepter）
 
 ## ゲームの内容
